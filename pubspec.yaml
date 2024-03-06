@@ -1,0 +1,17 @@
+name: scrum_app
+description: Una aplicación para mostrar elementos de Scrum.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/data_scrum.json
